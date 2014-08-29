@@ -1,0 +1,19 @@
+@prefix pre {
+  .foo {
+    padding: 5px;
+  }
+
+  #bar {
+    font-size: 12px;
+  }
+}
+
+@suffix suf {
+  .foo {
+    padding: 5px;
+  }
+
+  #bar {
+    font-size: 12px;
+  }
+}

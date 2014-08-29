@@ -18,7 +18,9 @@
   ],
   "author": "Masaaki Morishita",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "css-selector-parser": "^1.0.3"
+  },
   "devDependencies": {
     "chai": "^1.9.1",
     "postcss": "^2.2.3",
