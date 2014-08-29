@@ -1,0 +1,27 @@
+{
+  "name": "yacp-namespace",
+  "version": "0.0.1",
+  "description": "Namespace syntax for YACP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morishitter/yacp-namespace/git"
+  },
+  "keywords": [
+    "YACP",
+    "namespace",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "author": "Masaaki Morishita",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "postcss": "^2.2.3",
+    "mocha": "^1.21.4"
+  }
+}
